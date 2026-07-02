@@ -63,14 +63,9 @@ engineer_t harsha = {
 
 ## 🚀 Featured Projects
 
-<div align="center">
+🧿 **[Edge People Analytics](https://github.com/harshareddy1611/edge-people-analytics)** — fully on-device people counting + demographic analytics on a Jetson Nano (4GB) with dual CSI cameras. YOLOv5n detection, dwell-time tracking, age/gender estimation and a Flask dashboard with heatmaps — zero cloud dependency.
 
-<a href="https://github.com/harshareddy1611/edge-people-analytics"><img src="https://github-readme-stats.vercel.app/api/pin/?username=harshareddy1611&repo=edge-people-analytics&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&icon_color=00d9ff&hide_border=true&cache_seconds=86400" alt="edge-people-analytics"/></a>
-<a href="https://github.com/harshareddy1611/person-tracking-with-demographics"><img src="https://github-readme-stats.vercel.app/api/pin/?username=harshareddy1611&repo=person-tracking-with-demographics&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&icon_color=00d9ff&hide_border=true" alt="person-tracking-with-demographics"/></a>
-
-</div>
-
-🧿 **Edge People Analytics** — fully on-device people counting + demographic analytics on a Jetson Nano (4GB) with dual CSI cameras. YOLOv5n detection, dwell-time tracking, age/gender estimation and a Flask dashboard with heatmaps — zero cloud dependency.
+🧠 **[Person Tracking with Demographics](https://github.com/harshareddy1611/person-tracking-with-demographics)** — the YOLOv5 + centroid-tracking engine behind the analytics platform: person detection, persistent IDs and age/gender estimation in a single real-time pipeline.
 
 🚁 **LiDAR UAV Navigation** *(master project, in progress)* — autonomous UAV navigation in GPS-denied environments using a Livox Mid-360 solid-state LiDAR and real-time SLAM. Repo coming soon.
 
@@ -80,16 +75,11 @@ engineer_t harsha = {
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=harshareddy1611&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&ring_color=00d9ff" alt="GitHub stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshareddy1611&layout=compact&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9" alt="Top languages"/>
-
-<br/><br/>
-
 <img src="https://streak-stats.demolab.com?user=harshareddy1611&hide_border=true&background=0d1117&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e&stroke=00d9ff" alt="Streak stats"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=harshareddy1611&bg_color=0d1117&color=c9d1d9&line=00d9ff&point=ffffff&area=true&area_color=00d9ff&hide_border=true&custom_title=Contribution%20Activity" width="95%" alt="Activity graph"/>
+<img src="https://ghchart.rshah.org/00d9ff/harshareddy1611" alt="Contribution calendar" width="95%"/>
 
 </div>
 
