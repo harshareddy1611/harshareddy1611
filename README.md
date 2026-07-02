@@ -7,7 +7,7 @@
 <br/>
 
 <a href="https://www.linkedin.com/in/harsha-reddy-70848717a">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=0d1117&color=0d1117" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=for-the-badge&labelColor=0A66C2" alt="LinkedIn"/>
 </a>
 <a href="mailto:harsha.reddy1611@gmail.com">
   <img src="https://img.shields.io/badge/Email-harsha.reddy1611%40gmail.com-00d9ff?style=for-the-badge&logo=gmail&logoColor=00d9ff&labelColor=0d1117&color=0d1117" alt="Email"/>
@@ -108,7 +108,7 @@ Open to collaborations and opportunities in **embedded AI, robotics perception a
 <div align="center">
 
 <a href="https://www.linkedin.com/in/harsha-reddy-70848717a">
-  <img src="https://img.shields.io/badge/LinkedIn-harsha--reddy-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=0d1117" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-harsha--reddy-0d1117?style=for-the-badge&labelColor=0A66C2" alt="LinkedIn"/>
 </a>
 <a href="mailto:harsha.reddy1611@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-harsha.reddy1611-0d1117?style=for-the-badge&logo=gmail&logoColor=00d9ff" alt="Gmail"/>
