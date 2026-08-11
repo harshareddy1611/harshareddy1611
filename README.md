@@ -41,10 +41,6 @@ if it doesn't run on the hardware, it doesn't count
 
 <br/>
 
-<picture><img src="https://streak-stats.demolab.com?user=harshareddy1611&hide_border=true&background=0d1117&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e&stroke=00d9ff" alt="Streak stats"/></picture>
-
-<br/><br/>
-
 <picture><img src="https://ghchart.rshah.org/00d9ff/harshareddy1611" alt="Contribution calendar" width="95%"/></picture>
 
 <picture><img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d9ff,100:0d1117&height=110&section=footer" width="100%" alt="footer"/></picture>
